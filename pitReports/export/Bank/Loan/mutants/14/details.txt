@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=Bank.Loan, method=calculateNumberOfRates, methodDesc=(DD)I], indexes=[5], mutator=org.pitest.mutationtest.engine.gregor.mutators.MathMutator], filename=Loan.java, block=[0], lineNumber=33, description=Replaced double division with multiplication, testsInOrder=[]]

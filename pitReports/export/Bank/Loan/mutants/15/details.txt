@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=Bank.Loan, method=calculateNumberOfRates, methodDesc=(DD)I], indexes=[8], mutator=org.pitest.mutationtest.engine.gregor.mutators.returns.PrimitiveReturnsMutator], filename=Loan.java, block=[1], lineNumber=33, description=replaced int return with 0 for Bank/Loan::calculateNumberOfRates, testsInOrder=[]]

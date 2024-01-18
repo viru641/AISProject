@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=Bank.Loan, method=main, methodDesc=([Ljava/lang/String;)V], indexes=[69], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=Loan.java, block=[11], lineNumber=23, description=removed call to java/io/PrintStream::println, testsInOrder=[]]

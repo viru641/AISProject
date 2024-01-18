@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=Bank.Loan, method=calculateMonthlyRate, methodDesc=(DDI)D], indexes=[19], mutator=org.pitest.mutationtest.engine.gregor.mutators.InvertNegsMutator], filename=Loan.java, block=[0], lineNumber=29, description=removed negation, testsInOrder=[]]

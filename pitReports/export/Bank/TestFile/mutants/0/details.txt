@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=Bank.TestFile, method=testCalculateMonthlyRate, methodDesc=()V], indexes=[28], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=TestFile.java, block=[1], lineNumber=17, description=removed call to org/junit/jupiter/api/Assertions::assertEquals, testsInOrder=[]]
